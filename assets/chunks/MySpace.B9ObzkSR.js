@@ -1,1 +1,0 @@
-import{_ as a,b as r,o as c,w as o,r as s}from"./framework.BBXmkLIm.js";import{a as n}from"./theme.B9sJry8H.js";const i={};function _(e,l){const t=n;return c(),r(t,{align:"center",direction:"vertical",breakLine:!1,size:"medium",style:{width:"100%"}},{default:o(()=>[s(e.$slots,"default")]),_:3})}const p=a(i,[["render",_]]);export{p as default};
