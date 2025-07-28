@@ -1,0 +1,1 @@
+import{l as n}from"./opencvLoader.BSyGraWh.js";import{v as t,C as a,b as s,o as c}from"./framework.DW6iXiJV.js";const l={__name:"Test",setup(r){return t(async()=>{const o=await n();console.log("cvPromise: ",o.getBuildInformation())}),(o,p)=>{const e=a("MySpace");return c(),s(e)}}};export{l as default};

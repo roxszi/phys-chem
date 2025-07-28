@@ -1,0 +1,1 @@
+import{g as o}from"./framework.DW6iXiJV.js";let n=null;function r(){return n||(n=new Promise(t=>{if(window.cv&&typeof window.cv<"u"){t(window.cv);return}const e=document.createElement("script");e.async=!0,e.type="text/javascript",e.src=o("/opencv.js"),e.onload=c=>{t(window.cv)},document.head.appendChild(e)}),n)}export{r as l};
