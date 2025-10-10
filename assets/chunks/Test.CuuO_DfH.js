@@ -1,0 +1,1 @@
+import{v as e,C as t,b as a,o as n}from"./framework.DLn7jew2.js";const m={__name:"Test",setup(c){return e(()=>{console.log("import.meta: ",import.meta)}),(s,p)=>{const o=t("MySpace");return n(),a(o)}}};export{m as default};
