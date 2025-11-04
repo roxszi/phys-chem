@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as c,j as o,r}from"./framework.Cmgf5mhA.js";const a={},n={class:"center"};function l(e,_){return c(),t("span",n,[o("strong",null,[r(e.$slots,"default")])])}const f=s(a,[["render",l]]);export{f as default};
