@@ -1,0 +1,1 @@
+import{g as o}from"./framework.BjvrK5Wv.js";let n=null;function d(){return n||(n=new Promise(t=>{if(window.cv&&typeof window.cv<"u")t(window.cv);else{const e=document.createElement("script");e.defer=!0,e.type="text/javascript",e.id="opencv-loader",e.src=o("/assets/opencv-251112a.js"),e.onload=i=>{t(window.cv)},document.head.appendChild(e)}}),n)}export{d as l};
