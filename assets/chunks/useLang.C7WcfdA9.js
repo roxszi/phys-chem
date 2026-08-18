@@ -1,0 +1,1 @@
+import{_ as e,st as t}from"./framework.CAuJpLTy.js";function n(n){let{localeIndex:r}=e();return t(()=>{let e=r.value,t={};for(let r in n){let i=n[r];t[r]=i[e]??i.root}return t})}export{n as t};

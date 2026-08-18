@@ -1,0 +1,1 @@
+import{J as e,Mt as t,ct as n,dt as r,kt as i}from"./framework.CAuJpLTy.js";var a={},o={class:`my-column my-center`};function s(e,a){return i(),r(`span`,o,[n(`strong`,null,[t(e.$slots,`default`)])])}var c=e(a,[[`render`,s]]);export{c as t};
